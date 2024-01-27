@@ -13,6 +13,11 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Vue", "Astro", "TypeScrip
 const happy = true;
 const finished = false;
 const goal = 3;
+
+const sistemaOperacional = "Linux";
+const quantidade = 3;
+const calcado = "botas";
+const estudante = false
 ---
 
 <html lang="pt-br">
@@ -50,5 +55,13 @@ const goal = 3;
     <ul>
       {skills.map((habilidade) => <li>{habilidade}</li>)}
     </ul>
+
+    <p>{sistemaOperacional}</p>
+
+    {estudante && <p>Ainda estou na escola</p>}
+
+    <p>Eu tenho {quantidade + 8} pares de {calcado}</p>
+
+    {sistemaOperacional === "MacOS" ? <p>Eu estou utilizando um Mac</p> : <p>Não estou utilizando um Mac</p>}
 	</body>
 </html>
