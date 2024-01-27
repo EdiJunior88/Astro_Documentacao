@@ -9,6 +9,10 @@ const identify = {
 }
 
 const skills = ["HTML", "CSS", "JavaScript", "React", "Vue", "Astro", "TypeScript", "Nuxt", "NextJS", "TailWind CSS"]
+
+const happy = true;
+const finished = false;
+const goal = 3;
 ---
 
 <html lang="pt-br">
@@ -27,7 +31,11 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Vue", "Astro", "TypeScrip
 		<h1>{pageTitle}</h1>
     <h2>... e meu novo site Astro!</h2>
 
-    <p>Estou resolvendo o tutorial introdutório do Astro. Esta é a segunda página no meu website, e é a primeira que eu mesmo construí!</p>
+    {happy && <p>Estou feliz em estar aprendendo Astro!</p>}
+
+    {finished && <p>Eu terminei esse tutorial</p>}
+
+    {goal === 3 ? <p>Minha meta é terminar em 3 dias.</p> : <p>Minha meta não em 3 dias.</p>}
 
     <p>Este site será atualizado enquanto eu completo mais desse tutorial, então continue verificando e veja como minha jornada está indo!</p>
 
