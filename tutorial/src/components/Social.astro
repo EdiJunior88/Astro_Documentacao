@@ -3,4 +3,19 @@ const { url, icon } = Astro.props ;
 const { default: innerHTML } = await import(`/src/icons/${icon}.svg?raw`);
 ---
 
+<style>
+  a {
+    display: inline-flex;
+    padding: 1rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  a:hover {
+    color: white;
+    background: #4c1d95
+  }
+</style>
+
 <a href={url} target="_blank" set:html={innerHTML}></a>
