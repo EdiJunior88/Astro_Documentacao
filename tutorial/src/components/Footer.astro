@@ -1,13 +1,18 @@
 ---
-import IconLinedin from '../icons/IconLinedin.astro'
-import IconGuthub from '../icons/IconGithub.astro'
-import IconInstagram from '../icons/IconInstagram.astro'
+import Social from '../components/Social.astro'
+import Icon from "../components/Icon.astro"
+
+import IconLinkedin from '../icons/IconLinkedin.svg'
+import IconGuthub from '../icons/IconGithub.svg'
+import IconInstagram from '../icons/IconInstagram.svg'
+import IconWakaTime from '../icons/IconWakaTime.svg'
 ---
 
 <footer>
   <p>Siga as minhas redes sociais: 
-    <a href="https://www.linkedin.com/in/edivaldo-junior/" target="_blank"><IconLinedin /></a>
-    <a href="https://github.com/EdiJunior88" target="_blank"><IconGuthub /></a>
-    <a href="https://www.instagram.com/edijunior88/" target="_blank"><IconInstagram /></a>
+    <Social url="https://www.linkedin.com/in/edivaldo-junior/" icon="IconLinkedin" />
+    <Social url="https://github.com/EdiJunior88" icon="IconGithub" />
+    <Social url="https://www.instagram.com/edijunior88/" icon="IconInstagram" />
+    <Social url="https://wakatime.com/@EdiJunior" icon="IconWakaTime" />
   </p>
 </footer>

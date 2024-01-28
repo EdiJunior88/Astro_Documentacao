@@ -1,5 +1,6 @@
 ---
-const { url, icon } = Astro.props
+const { url, icon } = Astro.props ;
+const { default: innerHTML } = await import(`/src/icons/${icon}.svg?raw`);
 ---
 
-<a href={url} target="_blank">{icon}</a>
+<a href={url} target="_blank" set:html={innerHTML}></a>
