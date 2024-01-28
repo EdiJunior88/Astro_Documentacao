@@ -1,6 +1,6 @@
 ---
 const { url, icon } = Astro.props ;
-const { default: innerHTML } = await import(`/src/icons/${icon}.svg?raw`);
+const { default: innerHTML } = await import(`../icons/${icon}.svg?raw`);
 ---
 
 <style>
