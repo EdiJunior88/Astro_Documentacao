@@ -18,5 +18,11 @@ const pageTitle = "Página Inicial";
     <Header />
 		<h1>{pageTitle}</h1>
     <Footer />
+
+    <script>
+      document.querySelector('.hamburguer')?.addEventListener('click', () => {
+        document.querySelector('.nav-links')?.classList.toggle('expanded')
+      })
+    </script>
 	</body>
 </html>
