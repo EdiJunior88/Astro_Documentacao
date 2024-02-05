@@ -1,3 +1,9 @@
+:root {
+  --skillColor: navy;
+  --fontWeight: bold;
+  --textCase: uppercase;
+}
+
 html {
   background-color: #f1f5f9;
   font-family: sans-serif;
@@ -18,6 +24,13 @@ body {
 h1 {
   margin: 1rem 0;
   font-size: 2.5rem;
+  color: purple;
+}
+
+.skill {
+  color: var(--skillColor);
+  font-weight: var(--fontWeight);
+  text-transform: var(--textCase);
 }
 
 /* estilos da navegação */
