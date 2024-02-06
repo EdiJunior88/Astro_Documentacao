@@ -1,11 +1,12 @@
 ---
-title: Minha Segunda Postagem no Blog
-author: Aluno de Astro
+layout: ../../layouts/MarkdownPostLayout.astro
+title: "Minha Segunda Postagem no Blog"
+pubDate: 2024-01-27
 description: "Após aprender um pouco sobre Astro, eu não consegui parar!"
+author: Aluno de Astro
 image:
   url: "https://docs.astro.build/assets/arc.webp"
   alt: "Miniatura de arcos do Astro."
-pubDate: 2024-01-27
 tags: ["astro", "blogueirando", "aprendendo em público", "sucessos"]
 ---
 

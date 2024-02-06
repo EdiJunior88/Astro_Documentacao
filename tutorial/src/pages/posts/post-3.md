@@ -1,11 +1,12 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Minha Terceira Postagem no Blog
-author: Aluno de Astro
+pubDate: 2024-01-27
 description: "Eu tive alguns desafios, mas perguntar na comunidade realmente me ajudou!"
+author: Aluno de Astro
 image:
   url: "https://docs.astro.build/assets/rays.webp"
   alt: "Miniaturas de raios do Astro."
-pubDate: 2024-01-27
 tags: ["astro", "aprendendo em público", "contratempos", "comunidade"]
 ---
 
