@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Minha Segunda Postagem no Blog"
+title: Minha Segunda Postagem no Blog
 pubDate: 2024-01-27
 description: "Após aprender um pouco sobre Astro, eu não consegui parar!"
 author: Aluno de Astro

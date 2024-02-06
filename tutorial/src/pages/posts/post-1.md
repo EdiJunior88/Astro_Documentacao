@@ -5,12 +5,10 @@ pubDate: 2024-01-27
 description: "Esta é a minha primeira postagem no meu novo blog Astro."
 author: "Aluno de Astro"
 image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
+  url: "https://astro.build/assets/press/astro-logo-dark.svg"
   alt: "A logo completa do Astro"
 tags: ["astro", "blogueirando", "aprendendo em público"]
 ---
-
-publicado em: 2024-01-27
 
 Bem vindo ao meu _novo blog_ sobre aprendendo Astro! Aqui, eu irei compartilhar minha jornada de aprendizado enquanto eu construo um novo website.
 
