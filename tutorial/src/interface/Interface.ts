@@ -6,8 +6,3 @@ export interface PostFrontmatter {
 }
 
 export interface Post extends MarkdownInstance<PostFrontmatter> {}
-
-/* export interface Post {
-  url: string;
-  frontmatter: PostFrontmatter;
-} */
