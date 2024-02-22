@@ -1,12 +1,12 @@
 repo_name: EdiJunior88/Astro_Documentacao
-report_id: a1a9bb5228b258e41b9a4eb59baa4fb8
+report_id: 8439f909ac205872d257281b015867bc
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T14:36:30+00:00'
+timestamp: '2024-02-22T23:26:57+00:00'
 requested_by: EdiJunior88
 provider: github
 branch: main
-detected_tools_count: 5
+detected_tools_count: 6
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -32,17 +32,14 @@ tools:
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
   website_url: http://www.typescriptlang.org
-  version: 5.3.3
   license: Apache-2.0
   open_source: true
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
-  detection_source_url: https://github.com/EdiJunior88/Astro_Documentacao/blob/main/tutorial/package-lock.json
-  detection_source: tutorial/package.json
-  last_updated_by: EdiJunior88
-  last_updated_on: 2024-01-27 13:24:15.000000000 Z
+  detection_source_url: https://github.com/EdiJunior88/Astro_Documentacao
+  detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -53,6 +50,20 @@ tools:
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source_url: https://github.com/EdiJunior88/Astro_Documentacao
   detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/EdiJunior88/Astro_Documentacao/blob/main/tutorial/package-lock.json
+  detection_source: tutorial/package.json
+  last_updated_by: EdiJunior88
+  last_updated_on: 2024-02-20 00:24:11.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/

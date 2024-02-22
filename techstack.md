@@ -5,6 +5,7 @@ EdiJunior88/Astro_Documentacao is built on the following main stack:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
+- [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
 
@@ -16,6 +17,7 @@ EdiJunior88/Astro_Documentacao is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
 
@@ -24,16 +26,13 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
-
 ![](https://img.stackshare.io/repo.svg "repo") [EdiJunior88/Astro_Documentacao](https://github.com/EdiJunior88/Astro_Documentacao)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|02/04/24 <br/>Report generated|
+|6<br/>Tools used|02/22/24 <br/>Report generated|
 |------|------|
-
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
-
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6727/css.png' alt='CSS 3'>
@@ -56,14 +55,13 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://www.typescriptlang.org">TypeScript</a></sub>
   <br>
-  <sub>v5.3.3</sub>
+  <sub></sub>
 </td>
 
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (2)
-
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -71,6 +69,14 @@ Full tech stack [here](/techstack.md)
   <sub><a href="http://git-scm.com/">Git</a></sub>
   <br>
   <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'>
+  <br>
+  <sub><a href="https://prettier.io/">Prettier</a></sub>
+  <br>
+  <sub>v3.2.5</sub>
 </td>
 
 <td align='center'>
