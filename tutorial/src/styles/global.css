@@ -33,24 +33,6 @@ h1 {
   text-transform: var(--textCase);
 }
 
-a {
-  color: #00539F;
-}
-
-.tags {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.tag {
-  margin: 0.25em;
-  border: dotted 1px #a1a1a1;
-  border-radius: .5em;
-  padding: .5em 1em;
-  font-size: 1.15em;
-  background-color: #F8FCFD;
-}
-
 /* estilos da navegação */
 
 .hamburguer {
