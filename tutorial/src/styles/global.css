@@ -34,7 +34,7 @@ h1 {
 }
 
 a {
-  color: #00539F;
+  color: #00539f;
 }
 
 .tags {
@@ -45,10 +45,10 @@ a {
 .tag {
   margin: 0.25em;
   border: dotted 1px #a1a1a1;
-  border-radius: .5em;
-  padding: .5em 1em;
+  border-radius: 0.5em;
+  padding: 0.5em 1em;
   font-size: 1.15em;
-  background-color: #F8FCFD;
+  background-color: #f8fcfd;
 }
 
 /* estilos da navegação */
