@@ -6,7 +6,15 @@ const pageTitle = "Índice de Tags";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <ul>
-    {tags.map((tag) => <li>{tag}</li>)}
-  </ul>
+  <div class="tags">
+    {
+      tags.map((tag) => (
+        <p class="tag">
+          <a href={`/tags/${tag}`} target="_parent">
+            {tag}
+          </a>
+        </p>
+      ))
+    }
+  </div>
 </BaseLayout>

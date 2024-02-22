@@ -1,5 +1,5 @@
 ---
-const { url, icon } = Astro.props ;
+const { url, icon } = Astro.props;
 const { default: innerHTML } = await import(`../icons/${icon}.svg?raw`);
 ---
 
@@ -14,8 +14,8 @@ const { default: innerHTML } = await import(`../icons/${icon}.svg?raw`);
 
   a:hover {
     color: white;
-    background: #4c1d95
+    background: #4c1d95;
   }
 </style>
 
-<a href={url} target="_blank" set:html={innerHTML}></a>
+<a href={url} target="_blank" set:html={innerHTML} aria-label={icon} />
