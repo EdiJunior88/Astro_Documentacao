@@ -1,5 +1,5 @@
-<img src="./img-readme/logo-microsoft-learn.jpeg" width="60%">
-<h2>Introdução ao Vue</h2>
+<img src="./img-readme/astro-logo-light-gradient.svg" width="60%">
+<h2>Documentação do Astro</h2>
 
 <p>Astro é o framework web para a construção de websites focados em conteúdo como blogs, marketing e e-commerce. Astro é mais conhecido por ser pioneiro em uma nova arquitetura de frontend para reduzir o excesso e a complexidade do JavaScript em comparação a outros frameworks. Se você precisa de um website que carregue rápido e tenha ótimo SEO, então Astro é pra você.</p>
 
