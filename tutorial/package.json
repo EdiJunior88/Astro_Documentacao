@@ -17,7 +17,7 @@
     "astro": "^4.5.0",
     "astro-robots-txt": "^1.0.0",
     "preact": "^10.19.6",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.2"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
