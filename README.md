@@ -5,7 +5,7 @@
 
 <hr>
 
-<strong>Site do Projeto:</strong> <a href="https://astro-blog-edijunior88.netlify.app/">https://astro-blog-edijunior88.netlify.app/</a>
+<strong>Site do Projeto:</strong> <a href="https://astro-documentacao.onrender.com/">https://astro-documentacao.onrender.com/</a>
 
 <hr>
 
