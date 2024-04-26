@@ -34,12 +34,6 @@ Para ver todas as tecnologias [clique aqui](/techstack.md)
 
 <hr>
 
-<h3>Status do Deploy</h3>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b1376b5-982e-4632-b4d1-4fdff306466e/deploy-status)](https://app.netlify.com/sites/astro-blog-edijunior88/deploys)
-
-<hr>
-
 <h3>Issues Resolvidas</h3>
 
 [![DeepSource](https://app.deepsource.com/gh/EdiJunior88/Astro_Documentacao.svg/?label=resolved+issues&show_trend=true&token=Ua5XOeP_9A59eL3E1D-aWQ1N)](https://app.deepsource.com/gh/EdiJunior88/Astro_Documentacao/)
